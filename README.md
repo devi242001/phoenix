@@ -29,5 +29,9 @@ By touching the Matching game, the user can find the matching pair of picture by
 
 
 
+
+ <img src="https://user-images.githubusercontent.com/79742924/136818710-a69b78fc-a480-443a-aef7-5ef778f2dad9.jpg" width="200" height="300">
+
+
 By choosing the description, it provides ingredients, health benefits, importance of Indian foods.
 This procedure is similar for all the states in India.
