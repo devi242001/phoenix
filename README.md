@@ -14,8 +14,13 @@ The  game starts from the map which consists of few states in India.
  
  
  
- The menu pages consist of 4 options namely Picture Puzzle, Matching cards, description & exit.
- By clicking on Picture Puzzle, the user can clear the scrambled image. <img src="https://user-images.githubusercontent.com/79742924/136817729-f980cbaf-ab2c-4510-85f4-d19e127d3f86.jpg" width="200" height="300">
+ The menu pages consist of 4 options namely Picture Puzzle, Matching cards, description & exit.By clicking on Picture Puzzle, the user can clear the scrambled image. 
+ 
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/79742924/136817729-f980cbaf-ab2c-4510-85f4-d19e127d3f86.jpg" width="200" height="300">     <img src="https://user-images.githubusercontent.com/79742924/136817729-f980cbaf-ab2c-4510-85f4-d19e127d3f86.jpg" width="200" height="300">
+
+
 
 
 
