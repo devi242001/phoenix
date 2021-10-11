@@ -2,7 +2,8 @@
 Delicious India is android gaming app.It contain puzzle game , card swapping game and description about food.
 The  game starts from the map which consists of few states in India.
  By selecting the specific state in the map, it will take us to respective menu.
- 
+ ![page1](https://user-images.githubusercontent.com/79742924/136807722-8010f99d-f1d4-4c53-a141-26166df6a12f.jpg)
+
  
  
  
