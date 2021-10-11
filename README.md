@@ -18,7 +18,7 @@ The  game starts from the map which consists of few states in India.
  
  
  
- <img src="https://user-images.githubusercontent.com/79742924/136817729-f980cbaf-ab2c-4510-85f4-d19e127d3f86.jpg" width="200" height="300">     <img src="https://user-images.githubusercontent.com/79742924/136817729-f980cbaf-ab2c-4510-85f4-d19e127d3f86.jpg" width="200" height="300">
+ <img src="https://user-images.githubusercontent.com/79742924/136817729-f980cbaf-ab2c-4510-85f4-d19e127d3f86.jpg" width="200" height="300">     <img src="https://user-images.githubusercontent.com/79742924/136818404-cc89cefa-317c-4482-8eb0-f609bfad07b8.jpg" width="200" height="300">
 
 
 
